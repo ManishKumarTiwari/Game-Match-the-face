@@ -1,5 +1,4 @@
 # Game-Match-the-face
-A browser game in HTML CSS JAVASCRIPT
 Works Best on Windows and Google Chrome.
 -----------------------------------------------
 There are many rounds in the game.
