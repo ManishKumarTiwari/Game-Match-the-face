@@ -26,7 +26,7 @@ var flag=false;
 var pcCallTimer=undefined;
 var nextRoundTimer=undefined;
 var countDownTimer=undefined;
-var pcSnapCallInterval=1000;
+var pcSnapCallInterval=800;
 var countDownInterval=1000;
 var callNextRoundInterval=2000;
 
